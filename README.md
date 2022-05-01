@@ -33,4 +33,6 @@ Flask uses jinja template engine.
 
 `venv\Scripts\activate`
 
-then install required libraries(eg flask)
+then install required libraries(eg flask) and create a package file.
+
+`pip freeze > requirements.txt`
